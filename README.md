@@ -24,7 +24,5 @@ This week focuses on Object-Oriented Programming (OOP) concepts in Python and ho
 - Start with class design before writing methods.
 - Use small projects to practice and reinforce concepts.
 - Use classes for structured modeling.
-
-Understand when to use inheritance vs composition.
-
-Practice real-world mini-projects to strengthen concepts.
+- Understand when to use inheritance vs composition.
+- Practice real-world mini-projects to strengthen concepts.
